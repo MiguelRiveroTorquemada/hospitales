@@ -1,0 +1,7 @@
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\hospitales.exe
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\hospitales.dll
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\hospitales.deps.json
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\hospitales.runtimeconfig.json
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\hospitales.pdb
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\Spectre.Console.dll
+C:\Users\migue\Desktop\DAW\2º_2\SERVIDOR\hospitales\out\Wcwidth.dll

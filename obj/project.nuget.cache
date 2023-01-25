@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nwWuQx0XP2Vmj2w3X3ggsZUqrMl23+puNSQ6OU6qlE3vrpJlV6TALZfeK0w6OdHJ/HtRH88B0OrOs0IlPFnGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\Desktop\\DAW\\2º_2\\SERVIDOR\\hospitales\\hospitales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\spectre.console\\0.42.0\\spectre.console.0.42.0.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
